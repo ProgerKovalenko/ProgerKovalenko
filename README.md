@@ -33,7 +33,7 @@ weight of the app build.
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/telegram-022?style=for-the-badge&logo=linkedin&logoColor=white)](https://t.me/gameDevProger)
+[![portfolio](https://img.shields.io/badge/telegram-022?style=for-the-badge&logo=linkedin&logoColor=white)](https://t.me/progerKovalenko)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-kovalchitskii/)
 
 
